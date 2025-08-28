@@ -1,5 +1,6 @@
 streamlit
-rembg
-onnxruntime
 pillow
 moviepy
+rembg[gpu]
+onnxruntime
+numpy==1.23.5
